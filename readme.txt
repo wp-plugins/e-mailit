@@ -28,7 +28,7 @@ Soon, we will release **E-MAILiT Login Ads Beta**
 * 2K new users per week and growing
 * 75 languages
 * 65% new visits per month, every month and growing
-* Over 4.7 million visitors and 8.6 million views in total(test)
+* Over 4.7 million visitors and 8.6 million views in total
 
 <a href="mailto:support@e-mailit.com">Send us an email</a> if you want to be a E-MAILiT Login Ads Beta Publisher.
 
