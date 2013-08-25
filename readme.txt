@@ -11,21 +11,32 @@ E-MAILiT Share Buttons help your visitors easily share, bookmark and email your 
 
 == Description ==  
 
-E-MAILiT Share platform is the safest way (**without using online behavioral advertising practices**) to boost your traffic, to get more followers, to target your sharers and earn instant revenue (transforming a share button to a complete monetization tool). Use E-MAILiT to share in Facebook, Twitter, Google+, Gmail, Pinterest, LinkedIn, StumbleUpon, Blogger, Tumblr and more social channels in **75 languages**. Keep your audience engaged in the promoted content and get more traffic back to your site. Buttons contain a searchable menu of every applicable service, with the most popular displayed by default.
+Share, bookmark, email, follow and monetize a content, with E-MAILiT Share Buttons, in your WordPress-powered website or blog.
+Increase site traffic and engagement with the simplest, privacy safe (without using online behavioral advertising practices), most complete social sharing tool in the web. The Share Buttons, contain a searchable menu of every applicable service, with the most popular displayed by default.
 
-Launched in early June 2008, E-MAILiT has been used on **MTV**, **PC World** and many more websites and blogs. New products, services and features are constantly added and updated.
+Optionally, if you want to customize your sharing buttons, get access to targeted analytics of your complete social life-cycle and advertising campaign data metrics, <a href="http://www.e-mailit.com/widget/login">**Sign In / Create Account**</a>.
 
-Our Support Team is trying hard every day to give the maximum quality of support to our users/publishers, without of thinking the time cost consuming or anything else. **Small or Big Publisher accounts, they have the same treating from us**.
+Launched in early June 2008, E-MAILiT has been used on MTV, PC World, and many more websites and blogs.
 
-Optionally, <a href="http://www.e-mailit.com/widget/login">**Sign In or Create Account**</a> with us to customize your sharing buttons, get access to targeted analytics of your complete social life-cycle and advertising campaign data metrics. 
+New products, services and features are constantly added and updated (currently, we are going to release the new design-refreshed website and blog, the mobile-ready version of the share button, an android app and many more features).
 
-Soon, we will release E-MAILiT Login Ads Beta. <a href="mailto:support@e-mailit.com">Send us an email</a> if you want to be a E-MAILiT Login Ads Beta Publisher.
+Soon, we will release **E-MAILiT Login Ads Beta** 
+
+* Used in 163 countries, operating in a global market
+* Over 20K publishers to date and growing
+* 30K button share menu widget displays per month and growing
+* 2K new users per week and growing
+* 75 languages
+* 65% new visits per month, every month and growing
+* Over 4.7 million visitors and 8.6 million views in total
+
+<a href="mailto:support@e-mailit.com">Send us an email</a> if you want to be a E-MAILiT Login Ads Beta Publisher.
 
 If you have a question, you can tweet at <a href="http://twitter.com/emailit">@emailit</a>, or email support@e-mailit.com
 
 <a href="http://www.e-mailit.com/tos.html">We Do Not Track You</a>
 
-<a href="http://www.e-mailit.com/solutions.html">Demos</a>
+<a href="http://www.e-mailit.com/solutions.html">Live Preview</a>
 
 == Installation ==
 
