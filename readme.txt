@@ -1,13 +1,13 @@
-==== Share Buttons by E-MAILiT ====
+==== E-MAILiT Sharing Buttons ====
 Contributors: e-mailit
-Tags: +1, add to any, AddThis, addtoany, admin, analytics, bitly, bookmark, bookmark button, bookmarking, bookmarks, buffer, button, del.icio.us, Digg, email, e-mail, email button, email tools, emailit, E-MAILiT, evernote, Facebook, facebook like, facebook share, fark, gmail, google, google +1, google analytics, google bookmarks, google plus, google plus one, google translate, Google+1, hootsuite, image, images, instagram, instapaper, Like, linkedin, links, mister-wong, myspace, page, pages, pin, pinit, pinterest, plugin, plus1, plusone, Post, posts, print, PrintFriendly, Quora, Reddit, responsive, save, seo, Share, share and follow, share button, share buttons, share links, share this, Shareaholic, sharedaddy, sharethis, sharing, sharing buttons, sharing Is caring, sharing is sexy, shortcode, sidebar, sociable, social, social bookmarking, social bookmarks, social marketing, social share, social sharing, social tools, socialize, statistics, stats, stumbleupon, technorati, tumblr, tweet, tweet button, twitter, twitter button, twitter share, wanelo, Website Tools, whatsapp, widget, wpmu, yahoo, yammer, yummly
+Tags: +1, add to any, AddThis, addtoany, admin, analytics, bitly, bookmark, bookmark button, bookmarking, bookmarks, buffer, button, del.icio.us, Digg, email, e-mail, email button, email tools, emailit, E-MAILiT, evernote, Facebook, facebook like, facebook share, fark, floating, floating buttons, gmail, google, google +1, google analytics, google bookmarks, google plus, google plus one, google translate, Google+1, hootsuite, image, images, instagram, instapaper, Like, linkedin, links, mister-wong, myspace, page, pages, pin, pinit, pinterest, plugin, plus1, plusone, Post, posts, print, PrintFriendly, Quora, Reddit, responsive, save, seo, Share, share and follow, share button, share buttons, share links, share this, Shareaholic, sharedaddy, sharethis, sharing, sharing buttons, sharing Is caring, sharing is sexy, shortcode, sidebar, sociable, social, social bookmarking, social bookmarks, social marketing, social share, social sharing, social tools, socialize, statistics, stats, stumbleupon, technorati, tumblr, tweet, tweet button, twitter, twitter button, twitter share, wanelo, Website Tools, whatsapp, widget, wpmu, yahoo, yammer, yummly
 
 Requires at least: 2.9
 Tested up to: 4.2.1
 Stable tag: 7.5.4.4
 License: GPLv2 or later 
 
-A highly customizable, super lightweight plugin that enables you to add social sharing to all of your posts and / or pages quick and easy.
+E-MAILiT share buttons provides the smarter sharing & following tools to grow your website traffic, monetize, engage your audience & many more.
 
 == Description == 
 
@@ -55,15 +55,6 @@ Easily add multiple social networking share features to your WordPress powered s
 = Google Analytics integrated =
 
 * Easy Google Analytics integration for social sharing stats
-
-= Support =
-
-* 7 years of continuous service development
-* Automatically localized in 75 languages with Auto-Button Share-Text Translation
-
-<a href="http://www.e-mailit.com/sharer?url=https://wordpress.org/plugins/e-mailit/&title=WordPress Share Buttons by E-MAILiT WordPress Plugins&domain=www.wordpress.org" title="Share">Share this</a> plugin
-
-<a href="http://blog.e-mailit.com/">E-MAILiT Blog</a> | <a href="http://www.e-mailit.com/privacy">Privacy</a> 
 
 == Installation ==
 
