@@ -1,4 +1,4 @@
-==== E-MAILiT Sharing Buttons ====
+==== Share Buttons by E-MAILiT ====
 Contributors: e-mailit
 Tags: +1, add to any, AddThis, addtoany, admin, analytics, bitly, bookmark, bookmark button, bookmarking, bookmarks, buffer, button, del.icio.us, Digg, email, e-mail, email button, email tools, emailit, E-MAILiT, evernote, Facebook, facebook like, facebook share, fark, floating, floating buttons, gmail, google, google +1, google analytics, google bookmarks, google plus, google plus one, google translate, Google+1, hootsuite, image, images, instagram, instapaper, Like, linkedin, links, mister-wong, myspace, page, pages, pin, pinit, pinterest, plugin, plus1, plusone, Post, posts, print, PrintFriendly, Quora, Reddit, responsive, save, seo, Share, share and follow, share button, share buttons, share links, share this, Shareaholic, sharedaddy, sharethis, sharing, sharing buttons, sharing Is caring, sharing is sexy, shortcode, sidebar, sociable, social, social bookmarking, social bookmarks, social marketing, social share, social sharing, social tools, socialize, statistics, stats, stumbleupon, technorati, tumblr, tweet, tweet button, twitter, twitter button, twitter share, wanelo, Website Tools, whatsapp, widget, wpmu, yahoo, yammer, yummly
 
@@ -7,11 +7,11 @@ Tested up to: 4.2.1
 Stable tag: 7.5.4.4
 License: GPLv2 or later 
 
-E-MAILiT share buttons provides the smarter sharing & following tools to grow your website traffic, monetize, engage your audience & many more.
+The most flexible sharing tools, including E-MAILiT's global mobile-optimized sharing menu, Twitter, Facebook, WhatsApp, SMS & many more.
 
 == Description == 
 
-Easily add multiple social networking share features to your WordPress powered site. A variety of button styles and social sites are available and can be customized to match your site. Analytics are available to show you how many people are sharing your site.
+E-MAILiT gives a free, creative solution that permits publishers to coordinate influential features straightforwardly into their sites by means of a completely adjustable stage. The E-MAILiT service coordinates a mixture of share buttons, media solutions, social plugins, analytics, and much more, empowering publishers to build site hits, help client engagement, simple share and promote their content. You can promptly experience any way you need. With E-MAILiT, just select what or who you need to follow with or share and send it straightforwardly from the page by means of email, mobile, or Facebook and track the sharing of content. You can additionally create After Share Promos, focus on your sharers and keep the majority of your earned revenue by means of an integrated eye getting promotion space.
 
 = Recent Updates =
 
