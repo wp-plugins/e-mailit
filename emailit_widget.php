@@ -17,12 +17,13 @@
 
 
 /*
-  Plugin Name: Share Buttons by E-MAILiT
-  Plugin URI: http://www.e-mailit.com
-  Description: The most flexible sharing tools, including E-MAILiT's global mobile-optimized sharing menu, Twitter, Facebook, WhatsApp, SMS & many more.  [<a href="options-general.php?page=emailit_admin_panel.php">Settings</a>]
-  Author: E-MAILiT
-  Version: 8.0
-  Author URI: http://www.e-mailit.com
+ * Plugin Name: Share Buttons by E-MAILiT
+ * Plugin URI: http://www.e-mailit.com
+ * Description: The most flexible sharing tools, including E-MAILiT's global mobile-optimized sharing menu, Twitter, Facebook, WhatsApp, SMS & many more.  [<a href="options-general.php?page=emailit_admin_panel.php">Settings</a>]
+ * Author: E-MAILiT
+ * Text Domain: e-mailit
+ * Version: 8.0
+ * Author URI: http://www.e-mailit.com
  */
 defined('ABSPATH') or die('No direct access permitted');
 
