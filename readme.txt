@@ -1,60 +1,65 @@
-==== Share Buttons by E-MAILiT ====
+==== E-MAILiT Share Buttons ====
 Contributors: e-mailit
 Tags: +1, add to any, AddThis, addtoany, admin, analytics, bitly, bookmark, bookmark button, bookmarking, bookmarks, buffer, button, del.icio.us, Digg, email, e-mail, email button, email tools, emailit, E-MAILiT, evernote, Facebook, facebook like, facebook share, fark, floating, floating buttons, gmail, google, google +1, google analytics, google bookmarks, google plus, google plus one, google translate, Google+1, hootsuite, image, images, instagram, instapaper, Like, linkedin, links, mister-wong, myspace, page, pages, pin, pinit, pinterest, plugin, plus1, plusone, Post, posts, print, PrintFriendly, Quora, Reddit, responsive, save, seo, Share, share and follow, share button, share buttons, share links, share this, Shareaholic, sharedaddy, sharethis, sharing, sharing buttons, sharing Is caring, sharing is sexy, shortcode, sidebar, sociable, social, social bookmarking, social bookmarks, social marketing, social share, social sharing, social tools, socialize, statistics, stats, stumbleupon, technorati, tumblr, tweet, tweet button, twitter, twitter button, twitter share, wanelo, Website Tools, whatsapp, widget, wpmu, yahoo, yammer, yummly
 
 Requires at least: 2.9
-Tested up to: 4.2.1
-Stable tag: 7.5.4.4
-License: GPLv2 or later 
+Tested up to: 4.3.1
+Stable tag: 8.0
+License: GPLv2 or later
 
 The most flexible sharing tools, including E-MAILiT's global mobile-optimized sharing menu, Twitter, Facebook, WhatsApp, SMS & many more.
 
 == Description == 
 
-E-MAILiT gives a free, creative solution that permits publishers to coordinate influential features straightforwardly into their sites by means of a completely adjustable stage. The E-MAILiT service coordinates a mixture of share buttons, media solutions, social plugins, analytics, and much more, empowering publishers to build site hits, help client engagement, simple share and promote their content. You can promptly experience any way you need. With E-MAILiT, just select what or who you need to follow with or share and send it straightforwardly from the page by means of email, mobile, or Facebook and track the sharing of content. You can additionally create After Share Promos, focus on your sharers and keep the majority of your earned revenue by means of an integrated eye getting promotion space.
+E-MAILiT gives a free, creative solution that permits publishers to coordinate influential features straightforwardly into their sites by means of a completely adjustable stage. The E-MAILiT service coordinates a mixture of share buttons, media solutions, social plugins, analytics, and much more, empowering publishers to build site hits, help client engagement, simple share and promote their content, focusing on the sharers.
 
-= Recent Updates =
+**Updates 9/29/2015**. A supercharged update, bringing you the best mobile and desktop social sharing experience.
 
-* New Following Channels: Add Instagram, YouTube, Vimeo, Foursquare, Tumblr
-* Customize Following Channels
-* Customize Services
-* New UI/UX Admin Plugin Settings Panel Interface
-* Turn on/off after share ads
-* [Create your Advertising Campaign](http://www.e-mailit.com/features#create-campaign)
+E-MAILiT share buttons provides the smarter sharing and following tools to grow your website traffic, monetize, engage your audience and many more.
 
-= Sharing and Following Buttons (2 in 1): Grow Your Website and Build Your Community =
+= New Design. More Features =
 
-* Lots of sharing services to choose (130+ services)
-* Easy to install and to customize
-* Counters. Universal and original share counts
-* Standalone Buttons (default/custom/original/circular icons large and small sharing buttons)
-* Free from spam, clean, and adjustable
-* 3rd party share counter buttons include the Facebook Like Button, Facebook Share Button, Facebook Like/Share Button (combo), Twitter Tweet Button, Pinterest Pin It Button, Google+ Share Button, VKontakte Share Button, Odnoklassniki Share Button and LinkedIn Share Button
-* Email sharing via Gmail, Yahoo! Mail, Outlook.com, AOL Mail, MailRu and any other web and native apps
-* Integrated social life-cycle engagement suite. Make easy for your visitors to connect with you, through social profiles, blogs, feeds and other social sources on the internet, saving space from the website canvas
-* Custom Placement. Choose exactly where you want E-MAILiT to appear
+* A highly customizable, clean, quick to load, caching via major global CDNs and super-lightweight button will give your social tools a more modern look and user friendly experience, with no website registration required
+* No branding. No clutter. All E-MAILiT branding is completely removed without you spending a dime. Make it look like you paid really expensive for these customized social sharing solutions. Make your share buttons entirely your own
+* Well-engineered code will not slow or block your website pages from loading
+* HTML5 and CSS3 valid code
+* Asynchronous loading ensures a fast page launch. Your E-MAILiT button script loads at the end, without long wait periods, keeping your visitors engaged with your content
 
-<a href="http://www.e-mailit.com/" title="Sharing buttons">Share Buttons</a> demo
+= Desktop, Mobile, Everywhere & Mobile-Optimized Settings =
 
-= Monetizing: Create revenue and keep it all - Begin creating money from your sharing button =
+* Your site’s look and feel are of the top priority, and so responsiveness and compatibility built having that philosophy in mind. E-MAILiT responsive share menu and After Share Promos (including Follow Buttons & E-MAILiT Adverts) will work and look great on all phone and tablet devices, fits on all displays and any theme
+* One-click Mobile sharing support to Facebook Messenger Send, WhatsApp, SMS Client (includes Apple's iMessage), Viber, Line, moShare, Any Email service, Any Blog service and Copy Link in email or IM. Provide effective share options in getting your mobile visitors to share
+* Share Buttons & Floating Share Sidebars are fully optimized, customizable, ensuring they automatically only appear on mobile
 
-* Monetize the sharing of your site's content by creating a new source of income while enjoying higher CTR, by displaying in-button ads. Generate incremental ad revenue to supplement your existing revenue sources. Create new inventory by enabling ads that emerge from the buttons without having to change your page layout
+= The one-click way to share anything, anywhere =
 
-= WordPress Optimized =
+* **Bookmark & Share** your content to the most popular social networking sites (like Facebook, Twitter, Google+, Pinterest, WhatsApp and many more) with <a href="http://www.e-mailit.com/">**E-MAILiT**</a> (demo)
 
-* No account necessary
-* Well-engineered code will not slow or block your website pages from loading. Asynchronous ensure a fast page launch by loading your E-MAILiT button script at the end, without long wait periods, keeping your visitors engaged with your content
-* Fast and reliable performance
-* Very light weight script which do not effect your site's loading speed
-* Caching via major global CDNs
+= Share Buttons & Follow Buttons: Grow your website and build your community =
 
-= Responsive and any Mobile device Optimized =
+* 130+ sharing services to choose (updated constantly)
+* 10+ following services to choose (updated constantly)
+* Easy to install and to customize.
+* Standalone Buttons Configuration. Simple configuration controls allow you to display your choice of social networks, as well as modify style, position, size, and order. Use small or large buttons, square or circle, vertical or horizontal, custom image or colored share icons, add global and original share counters
+* Pinterest Shareable Images is the best way for publishers who want to make their content more shareable
+* Custom Placement. Choose exactly where you want E-MAILiT website tools to appear
+* Google Analytics integrated. Your sharing stats automatically roll into your Social Plugin metrics
+* Auto Show Share overlay will appear after a custom time duration given by you, encouraging your visitors to share your site's content, offering them an easy way to engage effectively
 
-* Mobile-friendly optimized with automatic detection of device-type. E-MAILiT will work and look great on all smartphones and tablets
+= After Share Promo (focus on your sharers) =
 
-= Google Analytics integrated =
+* Integrated **Social Cycle** engagement suite. Make easy for your visitors to connect with you, through social profiles, blogs, feeds and other social sources on the internet, saving space from the website canvas
+* Earn additional revenue and keep it all. Begin creating money from your social sharing button. Monetize the sharing of your site's content by creating a new source of income while enjoying higher click through rate, by displaying E-MAILiT Adverts. It's the perfect time to deliver advertising/promotion when your viewers are actively engaged in content they would like to share with their friends. Generate incremental ad revenue to supplement your existing revenue sources. Create new inventory by enabling ads that emerge from the buttons without having to change your page layout. Easy to install and to customize.
 
-* Easy Google Analytics integration for social sharing stats
+The advert is clickable, and will link to a URL for the landing page to redirect to. Clicking on the advert will open a new window.
+
+It is your responsibility to ensure your choice of ad display settings is in compliance to the terms and conditions defined by the ad network you setup as in-share-button-ad.
+
+E-MAILiT Advert formats: Static, Video, Interactive and Dynamic
+
+Technical Requirements: 300x250 pixels
+
+<blockquote>1.2 Billion Buttons Served – 2.5 Million / Day and 500 Million Users globally interact with E-MAILiT platform to share content. E-MAILiT is set out to build the world's best social sharing platform. <a href="http://www.e-mailit.com/sharer?url=http://wordpress.org/plugins/e-mailit&title=WordPress Share Buttons by E-MAILiT" title="Share">Share</a> this plugin<p><a href="http://blog.e-mailit.com/">E-MAILiT Blog</a> | <a href="http://www.e-mailit.com/privacy">Privacy</a></p></blockquote>
 
 == Installation ==
 
@@ -122,13 +127,21 @@ The count result is common for share and like interactions. Please, see here htt
 E-MAILiT is an advertising-supported service, which means that we are able to offer many of our services without charge to you by displaying advertising on our platform and on partner websites. Revenue generated from these ads supports E-MAILiT. We're displaying these targeted ads (this feature is optional and can be turned off anytime or you can use it exclusively for you by monetizing your website through a share button like ours, also for free) so we can continue offering free products and services that help you expand your awareness and generate money too! Delivering and maintaining such a platform to you is expensive but if you don’t want to participate we perfectly understand!
 
 == Screenshots ==
-01. Sharing buttons
-02. Settings panel
-03. Share menu that appears instantly when visitors use the sharing tools
-04. Mobile version
-05. Set your own colors for your sharing icons
+01. Share Buttons tab on the plugin settings page
+02. Advanced Options tab on the plugin settings page
 
 == Changelog ==
+= 8.0 =
+* New global mobile-optimized sharing menu button design!
+* New UI/UX Admin Plugin Settings Panel Interface.
+* E-MAILiT branding removed. No branding on our website tools by default. Make your share buttons entirely your own.
+* Your sharing stats automatically roll into your Google Analytics Social Plugin metrics.
+* HTML5 and CSS3 valid code.
+* Pinterest Shareable Images.
+* Update icons: Google, Google+, Google Translate, .Tuenti.
+* Add Viber, Tapiture, Line, Known, Pinboard, Renren, Embedly, moShare, Facebook Messenger Send, SMS Client (includes Apple's iMessage), Copy Link in email or IM.
+* Remove BlinkList, Bloggy, Kaboodle, Mashbord, Mister Wong, Transferr.
+* WordPress 4.3.1 compatibility.
 = 7.5.4.4 =
 * Reorganize source code.
 = 7.5.4.3 =

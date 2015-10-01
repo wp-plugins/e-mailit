@@ -1,114 +1,253 @@
+#emailit_admin_panel{
+    font-family: Arial, sans-serif;
+}
+.emailit_admin_panel_section{
+    border-bottom: 1px solid #cccccc;
+}
+h1.header{
+    margin: 20px 0 15px 18px;
+    line-height: 34px;
+    min-height: 40px;
+    color: #000;
+    font-style: normal;
+    font-weight: normal;
+    vertical-align: middle;
+    font-size: 24px;
+}
+.header span{
+    font-style: normal;
+    color: #777777;
+}
+#emailit_options #submit{
+    margin-top: 25px;
+    background: #155FAD;
+    color: #fff;    
+    cursor: pointer;
+    display: inline-block;
+    padding: 0 1.25em;
+    height: 36px;
+    font-size: 13px;
+    border: none;
+    line-height: 36px;
+    text-decoration: none;
+    -webkit-transition: background-color 300ms,color 300ms,text-decoration 300ms,border 300ms;
+    transition: background-color 300ms,color 300ms,text-decoration 300ms,border 300ms;    
+}
+#emailit_options #submit:hover{
+    background-color: #1e8cff;
+    color: #FFF;
+    text-decoration: none;    
+}
+#emailit_options ul{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#emailit_options .out-of-the-box, #emailit_options .follow_services{
+    margin-bottom: 25px;
+}
+#emailit_options ul.fields li, #emailit_options .radio{
+    margin-bottom: 25px;
+}
+#emailit_options h3{
+    font-size: 24px;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-top: 20px;
+    font-family: arial, sans-serif;
+}
+#emailit_options label{
+    margin-top: 25px;
+    display: block;
+    font-size: 14px;
+	font-family: arial, sans-serif;    
+}
+#emailit_options ul li label{
+    margin: 0;
+    font-family: Arial, sans-serif;
+    width: 60%;
+    display: inline-block;
+}
+#emailit_options .radio label{
+    margin: 0;
+}
+#emailit_options .radio li{
+    height: auto;
+}
 #sel_buttons{width:545px;margin-left:0;margin-right:0;margin-bottom:30px;margin-top:30px;}
 #sel_buttons input{position:absolute;right:5px;top: 4px;}
 #sel_buttons li {position:relative;margin: 0 3px 3px 3px;padding-left: 1.5em;font-size: 13px;height: 16px;line-height:16px;cursor: n-resize;}
 #sel_buttons li span {position: absolute;margin-left: -1.3em;}
 #sel_buttons i{float:left;display:block;width:16px;height:16px;background-image:url('../images/social_icons_32_16.png');margin-right:10px;}
-#display_fb_like_share_button i{background-position: -64px 0}
-#display_fb_button i{background-position: -64px 0}
-#display_fb_share_button i{background-position: -64px 0}
-#display_tweeter_button i{background-position: -64px -16px}
-#display_pinterest_button i{background-position: -64px -32px}
-#display_gplus_button i{background-position: -64px -64px}
-#display_vkontakte_button i{background-position: -64px -96px}
-#display_odnoklassniki_button i{background-position: -64px -80px}
-#display_linkedin_button i{background-position: -64px -112px}
-#display_emailit_button i{background-position: -64px -48px}
-.toolbar-styles{display:inline-block;vertical-align:top}
-.toolbar-style{margin-bottom:12px;line-height:44px;height:44px;width:540px;padding-left:5px;}
-.toolbar-style:nth-child(4){line-height:60px;height:60px;}
-.toolbar-style:hover{opacity:1!important;background-color:#ccc!important;}
-
-#social_services li, #social_services2 li, #social_services_share li, #social_services_share2 li {
-margin: 0 5px 0 15px;
-list-style: none;
-cursor: move;
+.colorpicker_square{
+    display: inline-block;
+    vertical-align: middle;
 }
-
+.colorpicker_widget{
+    white-space: nowrap;
+    display: inline-block;
+}
+.colorpicker_widget input{
+    line-height: 24px;
+    padding-right: 0;
+    margin-right: 0;
+}
+#social_services{
+    display: block;
+    overflow: hidden;
+    margin: 10px 0 10px 0;
+    min-height: 38px;
+}
+#emailit_options ul#social_services li{
+    margin: 0 10px 5px 0;
+    list-style: none;
+    cursor: move;
+}
+.services_buttons{
+    overflow: hidden;
+    margin-top: 10px;
+}
 #servicess .ui-state-default, #servicess .ui-widget-content .ui-state-default, #servicess .ui-widget-header .ui-state-default {
-	display: inline-block;
-	border: 0px solid #D3D3D3!important;
-	font-weight: normal;
-	color: #000;
-	padding: 5px 10px!important;
-	margin: 5px 10px!important;
-	cursor: pointer;
-	background-color: #FFF;
+    display: inline-block;
+    border: 1px solid #fff;
+    font-weight: normal;
+    padding: 5px 10px!important;
+    margin: 5px 10px 5px 0!important;
+    cursor: pointer;
 }
 #servicess .services_list {
-	width: 140px!important;
-	font-family: Arial, sans-serif;
-	font-size: 13px;
-	text-align: left;
+    width: 180px!important;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    text-align: left;
 }
 #servicess .ui-button-text{
-	padding: 0!important;
+    padding: 0!important;
+    height: 32px;
+}
+#servicess .ui-button-text div{
+    margin-right: 10px;
+}
+#servicess .ui-button-text .services_list_name{
+    line-height: 32px;
+    display: block;
 }
 #servicess {
-	display: block;
-	background-color: #F7F7F7;
-	width: 920px;
-	height: 280px;
-	overflow: scroll;
-	overflow-y: scroll;
-	overflow-x: hidden;
-	position: relative;
-	display: none;
+    display: block;
+    max-height: 265px;
+    min-height: 60px;
+    overflow: scroll;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    position: relative;
+    display: none;
+    margin-right: 0;
 }
-.filterinput {
-	background: url('../images/search.png') no-repeat;
-	border: none!important;
-	padding-left: 18px;
-	padding-top: 1px;
-	padding-right: 5px;
-	width: 165px;
-	height: 25px;
+.filterinput{
+    margin: 5px;
+    width: auto;
+    display: block;
+    padding: 0 30px;
+    margin: .5em 0;
+    background-image: none;
+    position: relative;
+    font-size: 14px;
+    border: 1px solid #CED7DF;    
+    display: none;
+}
+.filterinput input{
+    border: none;
+    width: 98%;
+    margin: 0;
+    display: block;
+    background: transparent none;
+    outline: 0!important;
+    line-height: 100%;
+    height: 50px;
+}
+.filterinput:after {
+    position: absolute;
+    left: 7px;
+    top: 50%;
+    margin-top: -9px;
+    content: "";
+    width: 25px;
+    height: 18px;
+    opacity: .5;
+    background: rgba(0,0,0,0);
+    background-image: url(../images/icons-18-black.png);
+    background-position: -612px 50%;
+    background-repeat: no-repeat;
 }
 .follow_label {
-	display: block;
-	width: 260px;
-	float: left;
-	margin-left: 10px;
-	text-align: right;
+    display: block;
+    width: 260px;
+    float: left;
+    margin-left: 10px;
+    text-align: right;
 }
 #social_services_follow{
-	width: 580px;
 }
 #social_services_follow li{
-	line-height:29px;
+    min-height: 32px;
 }
-#social_services_follow li span{
-	margin-top:6px;
+#social_services_follow li i{
+    margin-right: 5px;
 }
-#servises_customize, #counter_customize, #follow_customize, .social_services_default, .social_share_default, .social_follow_default, .uncheck_all, .delete_counter, .delete_follow, .appent_counter, .appent_follow {
-float: left;
-width: auto;
-font-size: 12px;
-text-decoration: none;
-cursor: pointer;
-display: inline-block;
-position: relative;
-font-weight: bold;
-padding: .3em 1em;
-margin-top: 10px;
-color: #FFF!important;
-background: #155FAD;
-border: 0px solid #FFF;
+.services_buttons{
+	margin-bottom: 10px;
 }
-#servises_customize:hover, #counter_customize:hover, #follow_customize:hover, .social_services_default:hover, .social_share_default:hover, .social_follow_default:hover, .uncheck_all:hover, .delete_counter:hover, .delete_follow:hover, .appent_counter:hover, .appent_follow:hover {
-	background:#003366;
-	text-decoration:none!important;
+.services_buttons a{
+	cursor: pointer;
+	margin-right: 10px;
 }
-#gener_div{
-padding-top:20px;width: 920px;
-}
-#emailit_options{
-font-family: 'Freight Sans Bold', 'lucida grande',tahoma,verdana,arial,sans-serif !important;
-color: #000;
-}
-#emailit_options a{color:#155FAD;text-decoration:none;}
-#emailit_options a:hover{color:#155FAD;text-decoration:underline;}
+#emailit_options a{color:#155fad;text-decoration:none;font-family: arial, sans-serif;outline: none!important}
+#emailit_options a:hover{color:#155fad;text-decoration:underline;}
 #tabs{margin-right: 20px;}
 #tabs ul li a:focus{box-shadow: none;}
-#tabs ul li a:hover{text-decoration: none!important;}
+#tabs ul li.ui-state-active a:hover{text-decoration: none!important;}
 #submit{margin-left:20px;}
-#emailit_options label{cursor: default}
+#emailit_options label{cursor: default;}
+#emailit_options label.above{cursor: default;display: inline-block;margin-right: 5px;margin-top: 5px;}
+.ui-tooltip, .arrow:after {
+    background: black;
+    border: 2px solid white;
+}
+.ui-tooltip {
+    padding: 10px 20px;
+    color: white;
+    border-radius: 20px;
+    font: bold 14px "Helvetica Neue", Sans-Serif;
+    box-shadow: 0 0 7px black;
+}
+.arrow {
+    width: 70px;
+    height: 16px;
+    overflow: hidden;
+    position: absolute;
+    left: 50%;
+    margin-left: -35px;
+    bottom: -16px;
+}
+.arrow.top {
+    top: -16px;
+    bottom: auto;
+}
+.arrow.left {
+    left: 20%;
+}
+.arrow:after {
+    content: "";
+    position: absolute;
+    left: 20px;
+    top: -20px;
+    width: 25px;
+    height: 25px;
+    box-shadow: 6px 5px 9px -9px black;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+.arrow.top:after {
+    bottom: -20px;
+    top: auto;
+}
