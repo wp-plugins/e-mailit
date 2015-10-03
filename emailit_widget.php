@@ -22,7 +22,7 @@
  * Description: The most flexible sharing tools, including E-MAILiT's global mobile-optimized sharing menu, Twitter, Facebook, WhatsApp, SMS & many more.  [<a href="options-general.php?page=emailit_admin_panel.php">Settings</a>]
  * Author: E-MAILiT
  * Text Domain: e-mailit
- * Version: 8.0
+ * Version: 8.0.1
  * Author URI: http://www.e-mailit.com
  */
 defined('ABSPATH') or die('No direct access permitted');
@@ -40,6 +40,27 @@ add_action('plugins_loaded', 'emailit_update');
 
 add_action('admin_notices', 'emailit_admin_notices');
 add_action('admin_init', 'emailit_nag_ignore');
+
+function emailit_admin_styles() {
+    wp_enqueue_style('jquery-ui.minCSS', plugins_url('css/jquery-ui.min.css', __FILE__));
+    wp_enqueue_style('colorpickerCSS', plugins_url('js/colorpicker/css/colorpicker.css', __FILE__));
+    wp_enqueue_style('layoutCSS', plugins_url('js/colorpicker/css/layout.css', __FILE__));
+    wp_enqueue_style('styleCSS', plugins_url('css/style.css', __FILE__));
+    wp_enqueue_style('switchCSS', plugins_url('js/switch/css/bootstrap2/bootstrap-switch.min.css', __FILE__));
+}
+function emailit_admin_scripts() {
+    wp_enqueue_script('jquery');
+    wp_enqueue_script('jquery-ui.minScript', plugins_url('js/jquery-ui.min.js', __FILE__));
+    wp_enqueue_script('colorpickerScript', plugins_url('js/colorpicker/js/colorpicker.js', __FILE__));
+    wp_enqueue_script('switchScript', plugins_url('js/switch/js/bootstrap-switch.min.js', __FILE__));
+}
+
+if (isset($_GET['page']) && $_GET['page'] == 'emailit_admin_panel.php') {
+	// add the registered scripts
+	add_action('admin_print_styles', 'emailit_admin_styles');
+	add_action('admin_print_scripts', 'emailit_admin_scripts');
+}
+
 function emailit_admin_init() {
     register_setting('emailit_options', 'emailit_options');
 }

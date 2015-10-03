@@ -4,10 +4,10 @@ Tags: +1, add to any, AddThis, addtoany, admin, analytics, bitly, bookmark, book
 
 Requires at least: 2.9
 Tested up to: 4.3.1
-Stable tag: 8.0
+Stable tag: 8.0.1
 License: GPLv2 or later
 
-The most flexible sharing tools, including E-MAILiT's global mobile-optimized sharing menu, Twitter, Facebook, WhatsApp, SMS & many more.
+The most flexible sharing and following tools, including E-MAILiT's global mobile-optimized sharing menu, Facebook, Twitter, WhatsApp, Pinterest, Viber and many more.
 
 == Description == 
 
@@ -131,6 +131,8 @@ E-MAILiT is an advertising-supported service, which means that we are able to of
 02. Advanced Options tab on the plugin settings page
 
 == Changelog ==
+= 8.0.1 =
+* URGENT UPDATE: crucial jquery conflict error: Resolved.
 = 8.0 =
 * New global mobile-optimized sharing menu button design!
 * New UI/UX Admin Plugin Settings Panel Interface.

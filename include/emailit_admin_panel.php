@@ -5,15 +5,6 @@ add_filter('admin_menu', 'emailit_admin_menu');
 
 function emailit_admin_menu() {
     add_options_page('E-MAILiT Settings', 'E-MAILiT Share', 'manage_options', basename(__FILE__), 'emailit_settings_page');
-    wp_enqueue_script('jquery');
-    wp_enqueue_script('jquery-ui.minScript', plugins_url('../js/jquery-ui.min.js', __FILE__));
-    wp_enqueue_script('colorpickerScript', plugins_url('../js/colorpicker/js/colorpicker.js', __FILE__));
-    wp_enqueue_script('switchScript', plugins_url('../js/switch/js/bootstrap-switch.min.js', __FILE__));
-    wp_enqueue_style('jquery-ui.minCSS', plugins_url('../css/jquery-ui.min.css', __FILE__));
-    wp_enqueue_style('colorpickerCSS', plugins_url('../js/colorpicker/css/colorpicker.css', __FILE__));
-    wp_enqueue_style('layoutCSS', plugins_url('../js/colorpicker/css/layout.css', __FILE__));
-    wp_enqueue_style('styleCSS', plugins_url('../css/style.css', __FILE__));
-    wp_enqueue_style('switchCSS', plugins_url('../js/switch/css/bootstrap2/bootstrap-switch.min.css', __FILE__));
 }
 
 function emailit_settings_page() {
