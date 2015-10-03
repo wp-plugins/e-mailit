@@ -7,7 +7,7 @@ Tested up to: 4.3.1
 Stable tag: 8.0.1
 License: GPLv2 or later
 
-The most flexible sharing and following tools, including E-MAILiT's global mobile-optimized sharing menu, Facebook, Twitter, WhatsApp, Pinterest, Viber and many more.
+The smarter sharing and following tools, including E-MAILiT's global mobile-optimized sharing menu, Facebook, Twitter, WhatsApp, Viber and many more.
 
 == Description == 
 
