@@ -33,7 +33,7 @@ E-MAILiT share buttons provides the smarter sharing and following tools to grow 
 
 = The one-click way to share anything, anywhere =
 
-* **Bookmark & Share** your content to the most popular social networking sites (like Facebook, Twitter, Google+, Pinterest, WhatsApp and many more) with <a href="http://www.e-mailit.com/">**E-MAILiT**</a> (demo)
+> **Bookmark & Share** your content to the most popular social networking sites (like Facebook, Twitter, Google+, Pinterest, WhatsApp and many more) with <a href="http://www.e-mailit.com/">**E-MAILiT**</a> (demo)
 
 = Share Buttons & Follow Buttons: Grow your website and build your community =
 
@@ -42,6 +42,7 @@ E-MAILiT share buttons provides the smarter sharing and following tools to grow 
 * Easy to install and to customize.
 * Standalone Buttons Configuration. Simple configuration controls allow you to display your choice of social networks, as well as modify style, position, size, and order. Use small or large buttons, square or circle, vertical or horizontal, custom image or colored share icons, add global and original share counters
 * Pinterest Shareable Images is the best way for publishers who want to make their content more shareable
+* Brand your Twitter social shares by including your Twitter handle and engage new followers
 * Custom Placement. Choose exactly where you want E-MAILiT website tools to appear
 * Google Analytics integrated. Your sharing stats automatically roll into your Social Plugin metrics
 * Auto Show Share overlay will appear after a custom time duration given by you, encouraging your visitors to share your site's content, offering them an easy way to engage effectively
@@ -59,7 +60,11 @@ E-MAILiT Advert formats: Static, Video, Interactive and Dynamic
 
 Technical Requirements: 300x250 pixels
 
-<blockquote>1.2 Billion Buttons Served – 2.5 Million / Day and 500 Million Users globally interact with E-MAILiT platform to share content. E-MAILiT is set out to build the world's best social sharing platform. <a href="http://www.e-mailit.com/sharer?url=http://wordpress.org/plugins/e-mailit&title=WordPress Share Buttons by E-MAILiT" title="Share">Share</a> this plugin<p><a href="http://blog.e-mailit.com/">E-MAILiT Blog</a> | <a href="http://www.e-mailit.com/privacy">Privacy</a></p></blockquote>
+> 1.2 Billion Buttons Served – 2.5 Million / Day and 500 Million Users globally interact with E-MAILiT platform to share content. E-MAILiT is set out to build the world's best social sharing platform.
+
+> <a href="http://www.e-mailit.com/sharer?url=http://wordpress.org/plugins/e-mailit&title=WordPress Share Buttons by E-MAILiT" title="Share">Share</a> this plugin
+
+> <a href="http://blog.e-mailit.com/">E-MAILiT Blog</a> | <a href="http://www.e-mailit.com/privacy">Privacy</a>
 
 == Installation ==
 
