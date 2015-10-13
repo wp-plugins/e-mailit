@@ -64,7 +64,7 @@ Technical Requirements: 300x250 pixels
 
 > <a href="http://www.e-mailit.com/sharer?url=http://wordpress.org/plugins/e-mailit&title=WordPress Share Buttons by E-MAILiT" title="Share">Share</a> this plugin
 
-> <a href="http://blog.e-mailit.com/">E-MAILiT Blog</a> | <a href="http://www.e-mailit.com/privacy">Privacy</a>
+> <a href="http://blog.e-mailit.com/">E-MAILiT Blog</a> | <a href="http://www.e-mailit.com/privacy">Privacy</a> | <a href="http://www.e-mailit.com/tos">Terms</a>
 
 == Installation ==
 
