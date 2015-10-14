@@ -127,9 +127,6 @@ function add_script() {
         $configValues[] = "hover_pinit:false";   
     if ($emailit_options['ad_url'] != "")
         $configValues[] = "ad_url:'" . $emailit_options["ad_url"] . "'";
-    if ($emailit_options["follow_after_share"] == 'no')
-        $configValues[] = "follow_after_share:false";
-
 
     if ($emailit_options['open_on'] != "") {
         $configValues[] = "open_on:'" . $emailit_options["open_on"] . "'";
