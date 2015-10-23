@@ -7,31 +7,29 @@ Tested up to: 4.3.1
 Stable tag: 8.0.1
 License: GPLv2 or later
 
-The smarter sharing and following tools, including E-MAILiT's global sharing menu, Facebook, Twitter, WhatsApp, Viber, and many more.
+The smartest sharing and following tools to grow your website traffic, monetize, and engage your audience.
 
 == Description == 
 
-E-MAILiT gives a free, creative solution that permits publishers to coordinate influential features straightforwardly into their sites by means of a completely adjustable stage. The E-MAILiT service coordinates a mixture of share buttons, media solutions, social plugins, analytics, and much more, empowering publishers to build site hits, help client engagement, simple share and promote their content, focusing on the sharers.
+E-MAILiT gives a free, creative solution that permits publishers to coordinate influential features straightforwardly into their sites by means of a completely adjustable stage. The E -MAILiT service coordinates a mixture of share buttons, media solutions, social plugins, analytics, and much more, empowering publishers to build site hits, help client engagement, simple share and promote their content, focusing on the sharers.
 
 **Updates 9/29/2015**. A supercharged update, bringing you the best mobile and desktop social sharing experience.
-
-E-MAILiT share buttons provides the smarter sharing and following tools to grow your website traffic, monetize, engage your audience and many more.
 
 = New Design. More Features =
 
 * A highly customizable, clean, quick to load, caching via major global CDNs and super-lightweight button will give your social tools a more modern look and user friendly experience, with no website registration required
 * No branding. No clutter. All E-MAILiT branding is completely removed without you spending a dime. Make it look like you paid really expensive for these customized social sharing solutions. Make your share buttons entirely your own
-* Well-engineered code will not slow or block your website pages from loading
+* Well-engineered code will not slow pages from loading
 * HTML5 and CSS3 valid code
 * Asynchronous loading ensures a fast page launch. Your E-MAILiT button script loads at the end, without long wait periods, keeping your visitors engaged with your content
 
 = Desktop, Mobile, Everywhere & Mobile-Optimized Settings =
 
-* Your site’s look and feel are of the top priority, and so responsiveness and compatibility built having that philosophy in mind. E-MAILiT responsive share menu and After Share Promos (including Follow Buttons & E-MAILiT Adverts) will work and look great on all phone and tablet devices, fits on all displays and any theme
+* Your site’s look and feel are of the top priority. The aspects of responsiveness and compatibility are built with that philosophy in mind. E-MAILiT will work and look great on all phone and tablet devices, fits on all displays and any theme
 * One-click Mobile sharing support to Facebook Messenger Send, WhatsApp, SMS Client (includes Apple's iMessage), Viber, Line, moShare, Any Email service, Any Blog service and Copy Link in email or IM. Provide effective share options in getting your mobile visitors to share
 * Share Buttons & Floating Share Sidebars are fully optimized, customizable, ensuring they automatically only appear on mobile
 
-= The one-click way to share anything, anywhere =
+= One-click way to share anything, anywhere, on any device =
 
 > **Bookmark & Share** your content to the most popular social networking sites (like Facebook, Twitter, Google+, Pinterest, WhatsApp and many more) with <a href="http://www.e-mailit.com/">**E-MAILiT**</a> (demo)
 
@@ -39,7 +37,7 @@ E-MAILiT share buttons provides the smarter sharing and following tools to grow 
 
 * 130+ sharing services to choose (updated constantly)
 * 10+ following services to choose (updated constantly)
-* Easy to install and to customize.
+* Easy to install and to customize
 * Standalone Buttons Configuration. Simple configuration controls allow you to display your choice of social networks, as well as modify style, position, size, and order. Use small or large buttons, square or circle, vertical or horizontal, custom image or colored share icons, add global and original share counters
 * Pinterest Shareable Images is the best way for publishers who want to make their content more shareable
 * Brand your Twitter social shares by including your Twitter handle and engage new followers
