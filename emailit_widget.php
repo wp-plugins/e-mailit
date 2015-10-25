@@ -137,7 +137,7 @@ function add_script() {
     $outputValue .= "var e_mailit_config = {" . implode(",", $configValues) . "};";
     $outputValue .= "(function() {	var b=document.createElement('script');	
                         b.type='text/javascript';b.async=true;\r\n	
-                        b.src='//e-mailit.com/widget/menu3x/js/button.js';\r\n	
+                        b.src='//www.e-mailit.com/widget/menu3x/js/button.js';\r\n	
                         var c=document.getElementsByTagName('head')[0];	c.appendChild(b) })()";
     $outputValue .= "</script>" . PHP_EOL;
     echo $outputValue;
