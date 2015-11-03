@@ -32,7 +32,6 @@ function emailit_update() {
             'floating_bar'=> 'disabled',
             'after_share_dialog' => 'true',
             'thanks_message' => 'Thanks for sharing!',
-            'display_ads' => 'true',
             'mobile_bar' => 'true',
         );
 
