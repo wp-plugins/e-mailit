@@ -147,7 +147,7 @@ function emailit_settings_page() {
                             revert: true,
                             opacity: 0.8
                         });
-                        jQuery("ul, li").disableSelection();
+                        jQuery("ul#social_services, #social_services li").disableSelection();
                         jQuery("#check").button();
                         jQuery("#servicess").buttonset();
                         jQuery(".uncheck_all_btn").click(function () {
@@ -183,6 +183,18 @@ function emailit_settings_page() {
                                 jQuery(".services_list").find(".services_list_name:not(:Contains(" + filter + "))").parent().parent().hide();
                                 jQuery(".services_list").find(".services_list_name:Contains(" + filter + ")").parent().parent().show();
                             }
+                            var value = jQuery("input[name='emailit_options[toolbar_type]']:checked").val();
+                            var nativeServices = ["Facebook", "Facebook_Like", "Facebook_Like_and_Share", "Facebook_Send", "Twitter", "Google_Plus", "LinkedIn", "Pinterest", "VKontakte", "Odnoklassniki"];
+                            if (value === "native") {
+                                jQuery("#servicess label").each(function () {
+                                    if (jQuery.inArray(jQuery(this).attr('id'), nativeServices) < 0) {
+                                        jQuery(this).hide();
+                                    }
+                                });
+                            } else {
+                                jQuery("#servicess label#Facebook_Like, #servicess label#Facebook_Like_and_Share").hide();
+                            }
+                            jQuery("#servicess").buttonset("refresh");                            
                         });
 
                         var follow_values = JSON.parse('<?php echo $emailit_options["follow_services"] ?>');
@@ -197,6 +209,7 @@ function emailit_settings_page() {
                             styleChanged();
                         });
                         function styleChanged() {
+                            jQuery('#filter-form-input-text').val("");
                             var nativeServices = ["Facebook", "Facebook_Like", "Facebook_Like_and_Share", "Facebook_Send", "Twitter", "Google_Plus", "LinkedIn", "Pinterest", "VKontakte", "Odnoklassniki"];
                             var value = jQuery("input[name='emailit_options[toolbar_type]']:checked").val();
                             if (value === "native") {

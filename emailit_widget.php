@@ -22,12 +22,12 @@
  * Description: The most flexible sharing tools, including E-MAILiT's global mobile-optimized sharing menu, Twitter, Facebook, WhatsApp, SMS & many more.  [<a href="options-general.php?page=emailit_admin_panel.php">Settings</a>]
  * Author: E-MAILiT
  * Text Domain: e-mailit
- * Version: 8.0.1
+ * Version: 8.0.2
  * Author URI: http://www.e-mailit.com
  */
 defined('ABSPATH') or die('No direct access permitted');
 
-define('EMAILIT_VERSION', '8.0');
+define('EMAILIT_VERSION', '8.0.2');
 
 include_once plugin_dir_path(__FILE__) . '/include/emailit_admin_panel.php';
 include_once plugin_dir_path(__FILE__) . '/include/emailit_options.php';

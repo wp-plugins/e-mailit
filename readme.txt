@@ -4,65 +4,22 @@ Tags: +1, add to any, AddThis, addtoany, admin, analytics, bitly, bookmark, book
 
 Requires at least: 2.9
 Tested up to: 4.3.1
-Stable tag: 8.0.1
+Stable tag: 8.0.2
 License: GPLv2 or later
 
 The smartest sharing and following tools to grow your website traffic, monetize, and engage your audience.
 
 == Description == 
 
-E-MAILiT gives a free, creative solution that permits publishers to coordinate influential features straightforwardly into their sites by means of a completely adjustable stage. The E -MAILiT service coordinates a mixture of share buttons, media solutions, social plugins, analytics, and much more, empowering publishers to build site hits, help client engagement, simple share and promote their content, focusing on the sharers.
-
 **Updates 9/29/2015**. A supercharged update, bringing you the best mobile and desktop social sharing experience.
 
-= New Design. More Features =
+E-MAILiT provides a free, creative solution which allows publishers to utilize influential features straightforwardly into their sites by means of a completely customizable environment. The E-MAILiT service smartly combines a mixture of share buttons, media solutions, analytics, and much more, empowering publishers to build site hits, helping client engagement, enabling simple sharing and promoting of their content, by focusing on their sharers.
 
-* A highly customizable, clean, quick to load, caching via major global CDNs and super-lightweight button will give your social tools a more modern look and user friendly experience, with no website registration required
-* No branding. No clutter. All E-MAILiT branding is completely removed without you spending a dime. Make it look like you paid really expensive for these customized social sharing solutions. Make your share buttons entirely your own
-* Well-engineered code will not slow pages from loading
-* HTML5 and CSS3 valid code
-* Asynchronous loading ensures a fast page launch. Your E-MAILiT button script loads at the end, without long wait periods, keeping your visitors engaged with your content
+Increase social sharing activity on your website with [E-MAILiT](www.e-mailit.com)
 
-= Desktop, Mobile, Everywhere & Mobile-Optimized Settings =
+A highly customizable, clean, quick to load, caching via major global CDNs and super-lightweight button will give your social tools a more modern look and user friendly experience. Well-engineered code will not slow pages from loading. Asynchronous loading ensures a fast page launch. Your E-MAILiT button script loads at the end, without long wait periods, keeping your visitors engaged with your content. Highly customizable with no website registration required.
 
-* Your site’s look and feel are of the top priority. The aspects of responsiveness and compatibility are built with that philosophy in mind. E-MAILiT will work and look great on all phone and tablet devices, fits on all displays and any theme
-* One-click Mobile sharing support to Facebook Messenger Send, WhatsApp, SMS Client (includes Apple's iMessage), Viber, Line, moShare, Any Email service, Any Blog service and Copy Link in email or IM. Provide effective share options in getting your mobile visitors to share
-* Share Buttons & Floating Share Sidebars are fully optimized, customizable, ensuring they automatically only appear on mobile
-
-= One-click way to share anything, anywhere, on any device =
-
-> **Bookmark & Share** your content to the most popular social networking sites (like Facebook, Twitter, Google+, Pinterest, WhatsApp and many more) with <a href="http://www.e-mailit.com/">**E-MAILiT**</a> (demo)
-
-= Share Buttons & Follow Buttons: Grow your website and build your community =
-
-* 130+ sharing services to choose (updated constantly)
-* 10+ following services to choose (updated constantly)
-* Easy to install and to customize
-* Standalone Buttons Configuration. Simple configuration controls allow you to display your choice of social networks, as well as modify style, position, size, and order. Use small or large buttons, square or circle, vertical or horizontal, custom image or colored share icons, add global and original share counters
-* Pinterest Shareable Images is the best way for publishers who want to make their content more shareable
-* Brand your Twitter social shares by including your Twitter handle and engage new followers
-* Custom Placement. Choose exactly where you want E-MAILiT website tools to appear
-* Google Analytics integrated. Your sharing stats automatically roll into your Social Plugin metrics
-* Auto Show Share overlay will appear after a custom time duration given by you, encouraging your visitors to share your site's content, offering them an easy way to engage effectively
-
-= After Share Promo (focus on your sharers) =
-
-* Integrated **Social Cycle** engagement suite. Make easy for your visitors to connect with you, through social profiles, blogs, feeds and other social sources on the internet, saving space from the website canvas
-* Earn additional revenue and keep it all. Begin creating money from your social sharing button. Monetize the sharing of your site's content by creating a new source of income while enjoying higher click through rate, by displaying E-MAILiT Adverts. It's the perfect time to deliver advertising/promotion when your viewers are actively engaged in content they would like to share with their friends. Generate incremental ad revenue to supplement your existing revenue sources. Create new inventory by enabling ads that emerge from the buttons without having to change your page layout. Easy to install and to customize.
-
-The advert is clickable, and will link to a URL for the landing page to redirect to. Clicking on the advert will open a new window.
-
-It is your responsibility to ensure your choice of ad display settings is in compliance to the terms and conditions defined by the ad network you setup as in-share-button-ad.
-
-E-MAILiT Advert formats: Static, Video, Interactive and Dynamic
-
-Technical Requirements: 300x250 pixels
-
-> 1.2 Billion Buttons Served – 2.5 Million / Day and 500 Million Users globally interact with E-MAILiT platform to share content. E-MAILiT is set out to build the world's best social sharing platform.
-
-> <a href="http://www.e-mailit.com/sharer?url=http://wordpress.org/plugins/e-mailit&title=WordPress Share Buttons by E-MAILiT" title="Share">Share</a> this plugin
-
-> <a href="http://blog.e-mailit.com/">E-MAILiT Blog</a> | <a href="http://www.e-mailit.com/privacy">Privacy</a> | <a href="http://www.e-mailit.com/tos">Terms</a>
+<a href="http://blog.e-mailit.com/">E-MAILiT Blog</a> | <a href="https://www.e-mailit.com/privacy">Privacy</a> | <a href="https://www.e-mailit.com/tos">Terms</a>
 
 == Installation ==
 
@@ -134,6 +91,8 @@ E-MAILiT is an advertising-supported service, which means that we are able to of
 02. Advanced Options tab on the plugin settings page
 
 == Changelog ==
+= 8.0.2 =
+* URGENT UPDATE: read only fields in admin options panel when using firefox: Resolved.
 = 8.0.1 =
 * URGENT UPDATE: crucial jquery conflict error: Resolved.
 = 8.0 =
@@ -171,7 +130,7 @@ E-MAILiT is an advertising-supported service, which means that we are able to of
 * Customize Following Channels.
 * Create your Advertising Campaign.
 * Customize promo display.
-* Code performance improvements. <a target="_blank" href="https://developers.google.com/speed/pagespeed/insights/?url=http://www.e-mailit.com/widget/button/js/button.js&amp;tab=desktop" target="_blank">Test Desktop version</a> - <a target="_blank" href="https://developers.google.com/speed/pagespeed/insights/?url=http://www.e-mailit.com/sharer.php&amp;tab=mobile" target="_blank">Test Mobile version</a>
+* Code performance improvements. <a target="_blank" href="https://developers.google.com/speed/pagespeed/insights/?url=https://www.e-mailit.com/widget/button/js/button.js&amp;tab=desktop" target="_blank">Test Desktop version</a> - <a target="_blank" href="https://developers.google.com/speed/pagespeed/insights/?url=https://www.e-mailit.com/sharer.php&amp;tab=mobile" target="_blank">Test Mobile version</a>
 * Backend: Coding modifications.
 = 7.4.3 =
 * Add Google PageSpeed Insights.
@@ -253,7 +212,7 @@ E-MAILiT is an advertising-supported service, which means that we are able to of
 = 6.9.01 =
 * UX changes in E-MAILiT Share Desktop Version.
 = 6.9 =
-* Launch of our new E-MAILiT website homepage http://www.e-mailit.com
+* Launch of our new E-MAILiT website homepage https://www.e-mailit.com
 = 6.8.4.2 =
 * Backend: Coding modifications.
 = 6.8.4.1 =
