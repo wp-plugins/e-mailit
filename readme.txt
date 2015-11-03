@@ -15,9 +15,9 @@ The smartest sharing and following tools to grow your website traffic, monetize,
 
 E-MAILiT provides a free, creative solution which allows publishers to utilize influential features straightforwardly into their sites by means of a completely customizable environment. The E-MAILiT service smartly combines a mixture of share buttons, media solutions, analytics, and much more, empowering publishers to build site hits, helping client engagement, enabling simple sharing and promoting of their content, by focusing on their sharers.
 
-Increase social sharing activity on your website with [E-MAILiT](www.e-mailit.com)
+E-MAILiT is a powerful social sharing platform and an awesome marketing web tool for your website. You can find out much more in our website <a href="https://www.e-mailit.com">https://www.e-mailit.com</a>
 
-A highly customizable, clean, quick to load, caching via major global CDNs and super-lightweight button will give your social tools a more modern look and user friendly experience. Well-engineered code will not slow pages from loading. Asynchronous loading ensures a fast page launch. Your E-MAILiT button script loads at the end, without long wait periods, keeping your visitors engaged with your content. Highly customizable with no website registration required.
+A highly customizable, clean, quick to load, caching via major global CDNs and super-lightweight button will give your social tools a more modern look and user friendly experience. Well-engineered code will not slow pages from loading. Asynchronous loading ensures a fast page launch. Your E-MAILiT button script loads at the end, without long wait periods, keeping your visitors engaged with your content.
 
 <a href="http://blog.e-mailit.com/">E-MAILiT Blog</a> | <a href="https://www.e-mailit.com/privacy">Privacy</a> | <a href="https://www.e-mailit.com/tos">Terms</a>
 
