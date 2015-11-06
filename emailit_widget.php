@@ -227,18 +227,18 @@ function emailit_createButton($emailit_options, $url = null, $title = null) {
         $style .= " circular";
     }
 
-    $outputValue = "<div class=\"e-mailit_toolbox $style \">" . PHP_EOL;
+    $outputValue = "<div class=\"e-mailit_toolbox $style \" $shared_url $shared_title>" . PHP_EOL;
     if ($emailit_options["global_button"] === "first") {
-        $outputValue .= "<div class=\"e-mailit_btn_EMAILiT\" $shared_url $shared_title></div>" . PHP_EOL;
+        $outputValue .= "<div class=\"e-mailit_btn_EMAILiT\"></div>" . PHP_EOL;
     }
 
     $stand_alone_buttons = array_filter(explode(",", $emailit_options["default_buttons"]));
 
     foreach ($stand_alone_buttons as $stand_alone_button) {
-        $outputValue .= "<div class=\"e-mailit_btn_$stand_alone_button\" $shared_url $shared_title></div>" . PHP_EOL;
+        $outputValue .= "<div class=\"e-mailit_btn_$stand_alone_button\"></div>" . PHP_EOL;
     }
     if ($emailit_options["global_button"] === "last") {
-        $outputValue .= "<div class=\"e-mailit_btn_EMAILiT\" $shared_url $shared_title></div>";
+        $outputValue .= "<div class=\"e-mailit_btn_EMAILiT\"></div>";
     }
     $outputValue .= "</div>" . PHP_EOL;
     return $outputValue;
