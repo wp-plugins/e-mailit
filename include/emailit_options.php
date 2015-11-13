@@ -33,6 +33,7 @@ function emailit_update() {
             'after_share_dialog' => 'true',
             'thanks_message' => 'Thanks for sharing!',
             'mobile_bar' => 'true',
+            'display_ads'=>'true'
         );
 
         add_option('emailit_options', $default_options);
