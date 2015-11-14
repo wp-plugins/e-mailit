@@ -7,7 +7,7 @@ Tested up to: 4.3.1
 Stable tag: 8.0.2
 License: GPLv2 or later 
 
-The smartest sharing and following tools to grow your website traffic, monetize, and engage your audience.
+E-MAILiT offers publishers the best tool to power social sharings, increase engagement, and earn new revenue.
 
 == Description == 
 
