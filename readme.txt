@@ -13,6 +13,8 @@ E-MAILiT offers publishers the best tool to power social sharings, increase enga
 
 **Updates 9/29/2015**. A supercharged update, bringing you the best mobile and desktop social sharing experience.
 
+Sharing anything, anywhere, made easy.
+
 E-MAILiT provides a free, creative solution which allows publishers to utilize influential features straightforwardly into their sites by means of a completely customizable environment. The E-MAILiT service smartly combines a mixture of share buttons, media solutions, analytics, and much more, empowering publishers to build site hits, helping client engagement, enabling simple sharing and promoting of their content, by focusing on their sharers.
 
 E-MAILiT is a powerful social sharing platform and an awesome marketing web tool for your website. You can find out much more in our website <a href="https://www.e-mailit.com">https://www.e-mailit.com</a>
