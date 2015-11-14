@@ -5,7 +5,7 @@ Tags: +1, add to any, AddThis, addtoany, admin, analytics, bitly, bookmark, book
 Requires at least: 2.9
 Tested up to: 4.3.1
 Stable tag: 8.0.2
-License: GPLv2 or later
+License: GPLv2 or later 
 
 The smartest sharing and following tools to grow your website traffic, monetize, and engage your audience.
 
